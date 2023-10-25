@@ -1,0 +1,19 @@
+{
+  "name": "basic-javascript",
+  "version": "1.0.0",
+  "description": "Fundamental javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oesmy/basic-js.git"
+  },
+  "author": "uus-tester",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oesmy/basic-js/issues"
+  },
+  "homepage": "https://github.com/oesmy/basic-js#readme"
+}
