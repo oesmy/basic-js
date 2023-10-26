@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oesmy/basic-js/issues"
   },
-  "homepage": "https://github.com/oesmy/basic-js#readme"
+  "homepage": "https://github.com/oesmy/basic-js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

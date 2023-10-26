@@ -1,21 +1,31 @@
-var a = 5;
+//Variable JS
 
-var b = 3;
+/*Example I [otomatis deklarasi type data]*/
+a = 10
+b = 5
+c = a + b;
 
- 
+/*Example II [deklarasi dengan var*/
+var x = 4
+var y = 5
+var z = x * y
 
-// menggunakan operator penjumlahan
+/*Example III [deklarasi dengan let*/
+let e = 40
+let f = 5
+let g = e / f
 
-var c = a + b;
+//Cetak
 
-console.log(c);
+/*
+console.log(typeof(nama))
+console.log(typeof(perusahaan))
+console.log(typeof(usia))
+console.log(typeof(statusKaryawan))
+*/
 
- 
+console.log(c)
+console.log(z)
+console.log(g)
+//Operator
 
-Operator penggabungan teks (hanya string)
-
-var a = "10" + "gabung";
-
- 
-
-a = "10gabung" //string
